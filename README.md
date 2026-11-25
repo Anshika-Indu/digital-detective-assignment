@@ -34,3 +34,8 @@ python3 number_converter.py
 This section will be completed after the mission activities, using the student's own observations and wording.
 
 Each mission has its own README. A dedicated commit will be made for each mission after its work is completed and reviewed.
+## My Learning
+
+- I have practised using Terminal to inspect folders and manage practice files.
+- I understand that the operating system manages programs, memory, files and permissions.
+- I have run a Python number converter and used Git to record the mission work.
