@@ -23,7 +23,7 @@ A branch is a separate line of work that can be changed without immediately chan
 
 ### Task 6.3 — Pull Request
 
-A Pull Request (PR) asks for a branch's changes to be reviewed and considered for another branch. The Pull Request is the review step for the `update-about` change. Its number, URL and status will be added after creation.
+A Pull Request (PR) asks for a branch's changes to be reviewed and considered for another branch. Created Pull Request [#1](https://github.com/Anshika-Indu/digital-detective-assignment/pull/1) from `update-about` into `main`. Its current status is **open**; it has not been merged.
 
 ### Task 6.4 — Git command glossary
 
@@ -63,4 +63,4 @@ Not applicable.
 
 ## 8. Commit details
 
-The Git workflow notes were committed on `main` with `Document Git commands and version control workflow`. The root README update was committed on `update-about` with `Add My Learning section to root README`.
+The Git workflow notes were committed on `main` with `Document Git commands and version control workflow`. The root README update was committed on `update-about` with `Add My Learning section to root README`. Pull Request #1 from `update-about` to `main` was created and is open; it was not merged.
