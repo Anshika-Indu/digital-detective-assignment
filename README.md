@@ -31,6 +31,6 @@ python3 number_converter.py
 
 ## Learning summary
 
-This section will be completed after the mission activities, using the student's own observations and wording.
+The missions covered how computers handle input and output, how Terminal and the operating system manage files and programs, and how Git and networks support everyday computing. A small Python converter also provided practice with binary and hexadecimal numbers and text encoding.
 
 Each mission has its own README. A dedicated commit will be made for each mission after its work is completed and reviewed.
