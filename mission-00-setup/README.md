@@ -36,4 +36,4 @@ _Record what you actually did, or write “Not applicable” if accurate._
 
 ## 8. Commit details
 
-Commit message: `Set up Digital Detective mission structure`. The online push is pending.
+Commit message: `Set up Digital Detective mission structure`. Pushed to the public GitHub repository on 2026-11-25 and visible on the `main` branch. Repository URL: https://github.com/Anshika-Indu/digital-detective-assignment
