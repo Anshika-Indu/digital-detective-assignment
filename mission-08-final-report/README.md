@@ -18,7 +18,7 @@ Review the repository, make the root README useful to a visitor, check the missi
 | Mission 5 — Numbers and data | Manual conversions, Python verification, text encoding and a working converter tested with three values and pushed. |
 | Mission 6 — Git and GitHub | Git glossary and workflow committed; `update-about` branch pushed; Pull Request #1 is open and unmerged. |
 | Mission 7 — Networking | Network concepts, safe connectivity/DNS observations and website steps committed and pushed. |
-| Mission 8 — Final report | This review and the root README summary are being committed and pushed. |
+| Mission 8 — Final report | This review and the root README summary are committed and pushed. |
 
 The repository is public at [https://github.com/Anshika-Indu/digital-detective-assignment](https://github.com/Anshika-Indu/digital-detective-assignment). Every mission folder has a README, and the required Python files are present. The root README has a mission index, topic list, converter run instructions and learning summary.
 
@@ -65,4 +65,4 @@ Activity Monitor provided the process snapshot, with personal details omitted. A
 
 ## 8. Commit details
 
-Commit message: `Complete final report and verify repository`. The final report and root README update will be pushed to the GitHub `main` branch.
+Final report commit: `Complete final report and verify repository` (pushed to `main`). Follow-up cleanup commit: `Finalize repository notes and report status` (pushed to `main`).

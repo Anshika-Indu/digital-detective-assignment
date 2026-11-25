@@ -13,7 +13,7 @@ Practise moving around folders, creating and managing files, using command optio
 | `pwd` | Prints the current working directory. | It showed the assignment repository's full path. |
 | `ls` | Lists visible files and folders. | It showed the README and mission folders. |
 | `ls -l` | Shows a detailed listing. | It included permissions, sizes and dates. |
-| `cd ..` and `cd digital-detective-starter` | Moves to the parent folder and then back into the repository. | The `pwd` result changed to the parent and back to the project folder. |
+| `cd ..` and `cd digital-detective-assignment` | Moves to the parent folder and then back into the repository. | The `pwd` result changed to the parent and back to the project folder. |
 | `mkdir terminal-practice` | Creates a directory. | The practice folder appeared in the repository. |
 | `touch notes.txt` | Creates an empty file if it does not already exist. | `notes.txt` appeared inside the practice folder. |
 | `cp notes.txt backup.txt` | Makes a copy of a file. | The original and copy were both present. |

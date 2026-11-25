@@ -6,7 +6,7 @@ Create the assignment repository, prepare folders for all missions, and record t
 
 ## 2. Work completed
 
-A local starter structure has been created for the repository `digital-detective-assignment`. The online repository is being set up now.
+The local mission structure and public GitHub repository `digital-detective-assignment` are set up.
 
 ## 3. Commands / tools used
 
@@ -31,7 +31,7 @@ _Record what you actually did, or write “Not applicable” if accurate._
 - Repository name: `digital-detective-assignment`
 - Root `README.md`
 - `mission-00-setup/` through `mission-08-final-report/`
-- `mission-05-numbers-data/number_converter.py` starter
+- `mission-05-numbers-data/number_converter.py`
 - `evidence/` folder
 
 ## 8. Commit details
